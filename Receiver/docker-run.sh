@@ -1,0 +1,1 @@
+docker run -t -d -p 4444:4444 si_receiver

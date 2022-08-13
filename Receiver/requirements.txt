@@ -1,0 +1,5 @@
+# Flask gives us a way to write api endpoints
+flask
+
+# Gunicorn gives us the server to receive requests
+gunicorn

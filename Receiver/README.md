@@ -1,0 +1,1 @@
+Receiver lets us get commands from outside. It's the facade, the access point for the rest of the system.
